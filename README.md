@@ -40,26 +40,20 @@ This Repository contain mini project using Front end technologies.
   
   - This project was divided in to Five phases :-
   
-#### phase -1 (15 Jul 2020 - 18 Jul 2020): 
-
-- Group Meeting on 15 July
+#### phase -1 : 
   
       * Motive Declaration and resource gathering
       * Analyzing Different travelling Blogs
       * Understanding working of a tour and travel Website.
 
-#### phase-2 (18 Jul 2020 - 10 Oct 2020):
-
-- Group Meeting on 19 July.
+#### phase-2 :
 
       * Basic Skelton making of the project
       * index page designing
       * user validation and access generation (login signup)
       * designing pages for authorised and non authorised user.
 
-#### plase -3 (10 Oct 2020 - 22 November 2020):
-
-- Group Meeting on 10 Oct.
+#### plase-3:
 
       * Creating all the type of places.
       * creating cities page
@@ -67,16 +61,14 @@ This Repository contain mini project using Front end technologies.
       * linking videolink to each destination
       * add overlay to each place for more details.
 
-#### phase 4 (22 Nov 2020 - 28 Nov 2020):
-
-- Group Meeting on 21 Nov.
+#### phase 4 :
 
       * Adding setting service to the user.
       * adding details about us.
       * adding contact page to reach us and booking service.
       * linking each page and making final touch up to each page
 
-#### phase 5 (2 Dec 2020):
+#### phase 5:
 
       * Deployment of fully working website to github pages.
  
